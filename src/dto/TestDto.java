@@ -2,5 +2,6 @@ package dto;
 
 public class TestDto {
     private String nom;
-    private Long numm;
+
+    private Long test;
 }
