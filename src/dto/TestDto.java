@@ -7,4 +7,5 @@ public class TestDto {
 
 
     private String mm;
+    private Long test23;
 }
