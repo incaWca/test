@@ -5,6 +5,6 @@ public class TestDto {
 
 
 
-    private String mm;
+    private String mm2;
     private Long test23;
 }
