@@ -3,5 +3,5 @@ package dto;
 public class TestDto {
     private String nom;
 
-    private Long test24;
+    private Long  test24;
 }
